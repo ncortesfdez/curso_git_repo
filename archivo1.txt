@@ -1,0 +1,3 @@
+if (DIA == DOMINGO) then
+  P_DESCANSAR;
+end if;
