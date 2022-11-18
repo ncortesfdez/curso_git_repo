@@ -1,5 +1,5 @@
 --AUTOR NICOLAS CORTES
-
+        SENOR X
 if (DIA==VIERNES) then
   P_FIESTA
 end if;
