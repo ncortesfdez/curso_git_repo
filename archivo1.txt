@@ -1,3 +1,5 @@
+--AUTOR NICOLAS CORTES
+
 if (DIA == DOMINGO) then
   P_DESCANSAR;
 end if;
