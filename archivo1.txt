@@ -1,5 +1,8 @@
 --AUTOR NICOLAS CORTES
 
+if (DIA==VIERNES) then
+  P_FIESTA
+end if;
 if (DIA == DOMINGO) then
   P_DESCANSAR;
 end if;
